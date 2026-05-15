@@ -1,4 +1,4 @@
-#  Danny's Diner SQL Analysis
+#  Restaurant Revenue and Loyalty Program SQL Analysis
 
 ## Project Overview
 Danny's Diner is a small Japenese restaurant selling three items - sushi, curry and ramen. Danny captured a few months of transaction data but had no way to make sense of it. The ask was straightforward: help him understand his customers well enough to decide whether to double down on the loyalty program and build datasets his team could use without touching SQL themselves.
